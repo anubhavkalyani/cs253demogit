@@ -5,6 +5,6 @@ int main()
 {
 	ll n;
 	cin>>n;
-	n=n+100;
+	n=n+300;
 	cout<<n<<endl;
 }
